@@ -1,0 +1,2 @@
+# Requires: meta-pause
+# (Not available on PyPI)
